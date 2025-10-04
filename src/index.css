@@ -1,9 +1,9 @@
 @import "tailwindcss/preflight";
 @import "tailwindcss"; 
 
-:root{
-  --font-dispplay: 'Bodoni Moda', serif;
-  --font-sans: 'Lato', sans-serif;
+@theme{
+  --font-display: 'Bodoni Moda';
+  --font-sans: 'Lato';
 }
 
 
